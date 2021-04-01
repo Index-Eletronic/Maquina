@@ -1,4 +1,4 @@
-from PyQt5 import uic,QtWidgets
+from PyQt5 import uic, QtWidgets
 
 def funcao_principal():
     print('teste')
